@@ -1,0 +1,6 @@
+data
+tmp
+.ropeproject
+*.pyc
+*.csv
+*.db
